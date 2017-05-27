@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Post1"
+title:  "Layered Craters Ring"
 date:   2017-05-01 00:08:46 +0000
-categories: jekyll update
+categories: ring
 permalink: :title
-image1: assets/img/img1.png
-image1-title: "Title1"
-image2: assets/img/img2.png
-image2-title: "Title2"
+image1: assets/img/layered_craters_ring.JPG
+image1-title: "Layered Craters Ring"
+image2: assets/img/layered_craters_ring_hand.JPG
+image2-title: "Layered Craters Ring"
 ---
-You'll see this amazing post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Using three strips of wire in copper, bronze, and brass, I made three nesting rings, each one a little bigger and a little wider than the one inside it. The two outer rings had holes in a variety of sizes drilled through them so you could see the layers of metal underneath.
+To form the ring, I carefully nested all the rings and then used a dapping block to round the outside edges of the largest ring, flipping it over frequently to create an even dome, trapping the two inner bands inside.
