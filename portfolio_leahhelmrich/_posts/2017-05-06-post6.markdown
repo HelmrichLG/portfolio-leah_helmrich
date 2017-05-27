@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Peekaboo Cufflinks"
+date:   2017-05-06 00:08:46 +0000
+categories: cufflinks
+permalink: :title
+image1: assets/img/cufflinks-compressor.jpg
+image1-title: "Peekaboo Cufflinks"
+---
+Made with sheet sterling silver and niobium, I cut four matching squares, two of each material. I anodized the niboium with a rainbow progression of colors and cut a number of squares and triangles out of the silver pieces. Then I soldered a post of the cufflink bases and drilled a hole through the center of the squares. Stacking a silver square on top of a niobium one, I carefully riveted the post, holding the two squares securely on the cufflink base.

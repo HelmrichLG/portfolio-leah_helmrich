@@ -4,9 +4,9 @@ title:  "Layered Craters Ring"
 date:   2017-05-01 00:08:46 +0000
 categories: ring
 permalink: :title
-image1: assets/img/layered_craters_ring.JPG
+image1: assets/img/layered_craters_ring-compressor.jpg
 image1-title: "Layered Craters Ring"
-image2: assets/img/layered_craters_ring_hand.JPG
+image2: assets/img/layered_craters_ring_hand-compressor.jpg
 image2-title: "Layered Craters Ring"
 ---
 
