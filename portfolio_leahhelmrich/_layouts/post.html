@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="photo-set">
+      {% if page.image1 %}
+        <a class="photo" href="{{ page.image1 }}" data-lightbox="photo-set" data-title="{{page.image1-title}}"><img class="post-img" src="{{ page.image1 }}" alt=""/></a>
+      {% endif %}
+      {% if page.image2 %}
+        <a class="photo" href="{{ page.image2 }}" data-lightbox="photo-set" data-title="{{page.image2-title}}"><img class="post-img" src="{{ page.image2 }}" alt="" /></a>
+      {% endif %}
+      {% if page.image3 %}
+        <a class="photo" href="{{ page.image2 }}" data-lightbox="photo-set" data-title="{{page.image2-title}}"><img class="post-img" src="{{ page.image2 }}" alt="" /></a>
+      {% endif %}
+    </div>
+    <div class="description">
+      {{ content }}
+    </div>
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>

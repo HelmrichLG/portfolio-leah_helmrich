@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Projects</h1>
+  
+  {{ content }}
+
+  <div class="post-list">
+    {% for post in site.posts reversed %}
+      <div class="post">
+        {% if post.image1 %}
+          <a class="post-list-img" href="{{ post.url |remove_first: "/" }}.html"><img class="post-img" src="{{ post.image1 }}"></a>
+          <a class="post-list-title" href="{{ post.url |remove_first: "/" }}.html">{{ post.title | escape }}</a>
+        {% else %}
+          <a class="post-list-img" href="{{ post.url |remove_first: "/" }}.html"><img class="post-img" src="{{ "assets/img/default.png" }}"></a>
+          <a class="post-list-title" href="{{ post.url |remove_first: "/" }}.html">{{ post.title | escape }}</a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
