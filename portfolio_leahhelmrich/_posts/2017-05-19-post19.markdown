@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stage-Worthy Laundry Room Floor"
-date:   2017-05-11 00:08:46 +0000
+date:   2017-05-19 00:08:46 +0000
 categories: other
 permalink: :title
 image1: assets/img/floor-finished-compressor.jpg
