@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Jewel of the Sea Pendant"
+date:   2017-05-13 00:08:46 +0000
+categories: pendant
+permalink: :title
+image1: assets/img/jewel-of-the-sea_1-compressor.jpg
+image1-title: "Jewel of the Sea"
+image2: assets/img/jewel-of-the-sea_2-compressor.jpg
+image2-title: "Jewel of the Sea"
+---
+Starting with sterling silver wire in 18 and 20 gauge, I cut 10-15 pieces and balled both ends. I roughly shaped the pieces and stacked them in a loose horseshoe shape. Using silver solder in wire form, I fused all the pieces together, focusing on the middle. Once everything was soldered, I began to finalize the shape, working in a little at a time with each tendril until the focal stone was securely pinned in place.

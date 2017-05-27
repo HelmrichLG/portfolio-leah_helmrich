@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Chrysanthemum-esque Pendant"
+date:   2017-05-11 00:08:46 +0000
+categories: pendant
+permalink: :title
+image1: assets/img/flower-pendant_1-compressor.jpg
+image1-title: "Chrysanthemum-esque Pendant"
+image2: assets/img/flower-pendant_2-compressor.jpg
+image2-title: "Chrysanthemum-esque Pendant"
+---
+Using 20 gauge sheet copper, I cut two flower pattern pieces out and filed all of the edges. I cut and domed an anodized aluminum disk for the center of the flower. Carefully bending the prongs in part way, I arranged the layers and then fully bent the prongs, locking the pieces together.

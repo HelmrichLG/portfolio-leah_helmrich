@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Fishbone Earrings"
+date:   2017-05-12 00:08:46 +0000
+categories: earrings
+permalink: :title
+image1: assets/img/fishbone-earring-_1-compressor.jpg
+image1-title: "Fishbone Earrings"
+image2: assets/img/fishbone-earring-_2-compressor.jpg
+image2-title: "Fishbone Earrings"
+---
+I used 20 gauge sheet copper and cut small head and tail shapes out of it and made a post earring finding to be soldered to the head. Using 22 gauge sterling silver wire I fashioned a delicate spine to connect the pieces so they would dangle and swing.

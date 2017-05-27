@@ -9,4 +9,4 @@ image1-title: "Large Steampunk Pendant"
 image2: assets/img/steampunk-small-pendant-compressor.jpg
 image2-title: "Small Steampunk Pendant"
 ---
-Using 24 gauge brass wire and 16 gauge silver tone wire I wrapped and captured a number of vintage watch parts into two unique pendants. It was a challange to devise the best way to secure some of the pieces, as many had no holes or obvious attatchment points.
+Using 24 gauge brass wire and 16 gauge silver tone wire I wrapped and captured a number of vintage watch parts into two unique pendants. It was a challenge to devise the best way to secure some of the pieces, as many had no holes or obvious attachment points.
