@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "'Skirt Girl' Bracelet"
+date:   2017-05-08 00:08:46 +0000
+categories: bracelet
+permalink: :title
+image1: assets/img/skirt-girl_1-compressor.jpg
+image1-title: "'Skirt Girl' Bracelet"
+image2: assets/img/skirt-girl_2-compressor.jpg
+image2-title: "'Skirt Girl' Bracelet"
+---
+The first step of making this bracelet was to generate the text in the desired font, with kerning adjusted so it was as small as possible, giving the letters as many connections as possible. After transferring the text to a blank adhesive label, I changed a few of the connection points by hand, to ensure they were wide enough to be sturdy. Then I cut the piece out of 22 gauge sheet brass. After filing and smoothing all of the edges, I gave the entire bracelet a hammered and peened texture. The last steps were to shape the bracelet and to make a chain clasp for it.
+

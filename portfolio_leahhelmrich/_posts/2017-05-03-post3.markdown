@@ -10,6 +10,6 @@ image2: assets/img/angular-brass-linkage_2-compressor.jpg
 image2-title: "Angular Brass Linkage Necklace"
 ---
 I started with a basic geometric shape and designed a number of different sized and shaped link patterns. Half the links would be cut to be open, and the others would be solid, so I could connect them together.
-\item Using blank adhesive labels, I transferred the link designs onto 20 gauge sheet brass in preparation for piercing and sawing.
-\item After all the pieces were cut out and filed smooth, I slotted them together and soldered the cuts of the open links, creating a solid chain. The last step was to solder a few links for the chain of the toggle clasp and to give the piece an interesting patina.
+Using blank adhesive labels, I transferred the link designs onto 20 gauge sheet brass in preparation for piercing and sawing.
+After all the pieces were cut out and filed smooth, I slotted them together and soldered the cuts of the open links, creating a solid chain. The last step was to solder a few links for the chain of the toggle clasp and to give the piece an interesting patina.
 

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Twisted Teardrops Ring"
+date:   2017-05-07 00:08:46 +0000
+categories: ring
+permalink: :title
+image1: assets/img/twisted-teardrops-ring-compressor.jpg
+image1-title: "Twisted Teardrops Ring"
+image2: assets/img/twisted-teardrops-ring-hand-compressor.jpg
+image2-title: "Twisted Teardrops Ring"
+---
+Using a basket-weaving patters, I made a thin band with 18 gauge and 24 gauge wire, capturing two briolette cut stones in a bypass-style ring.
