@@ -202,8 +202,7 @@
 
   .post {
     flex-basis: 350px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin: 10px;
 
     position: relative;
     display:flex;
@@ -217,8 +216,8 @@
     visibility: hidden;
     position: absolute;
     color: $brand-color3;
-    border-radius: 50%;
-    padding: 40%;
+    padding: 20px;
+    text-align: center;
   }
 
   .post:hover .post-list-img{
