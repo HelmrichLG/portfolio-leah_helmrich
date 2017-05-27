@@ -308,7 +308,7 @@ pre {
     padding: 0px;
     font-size: 24px; }
   .post-list .post-list-title {
-    visibility: visible;
+    visibility: hidden;
     position: absolute;
     color: #abb92f;
     border-radius: 50%;
@@ -317,7 +317,7 @@ pre {
     filter: brightness(40%);
     transition: all 1s ease; }
   .post-list .post:hover .post-list-title {
-    visibility: hidden;
+    visibility: visible;
     transition: all 1s ease; }
   .post-list .post-img {
     filter: brightness(100%);
