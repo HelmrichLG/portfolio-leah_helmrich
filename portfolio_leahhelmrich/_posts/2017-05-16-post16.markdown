@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Needlefelted Teddy Bear"
+date:   2017-05-16 00:08:46 +0000
+categories: toy
+permalink: :title
+image1: assets/img/teddy-bear-compressor.jpg
+image1-title: "Teddy Bear"
+---
+Using reclaimed wool from a sweater I needle felted a fully articulated 6 piece teddy bear, creating the pattern for all the pieces though observation of a vintage bear.

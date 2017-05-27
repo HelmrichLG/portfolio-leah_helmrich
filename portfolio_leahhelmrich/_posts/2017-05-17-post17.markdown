@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Knotted and Vined Headphones"
+date:   2017-05-17 00:08:46 +0000
+categories: acessory
+permalink: :title
+image1: assets/img/headphones-worn-compressor.jpg
+image1-title: "Knotted and Vined Headphones"
+image2: assets/img/headphones-finished-compressor.jpg
+image2-title: "Knotted and Vined Headphones"
+---
+After acquiring a pair of over-ear headphones that had a mesh covered band, I decided to jazz them up using some embroidery. Using an image I created from a few different pieces of clip art, I turned it into a rough pattern to follow, using silk embroidery floss to create the final design.

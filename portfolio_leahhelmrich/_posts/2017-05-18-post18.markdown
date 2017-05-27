@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Exploding TARDIS Shoes"
+date:   2017-05-18 00:08:46 +0000
+categories: shoes
+permalink: :title
+image1: assets/img/shoes-finished-compressor.jpg
+image1-title: "Exploding TARDIS Shoes"
+image2: assets/img/shoes-worn-compressor.jpg
+image2-title: "Exploding TARDIS Shoes"
+---
+Based on a ficticious Van Gogh painting from the British TV show Doctor Who, I painted a pair of high top sneakers with a sci-fi scene using acrylic paint. I sealed the laces and shoes with Scotch Guard and use metallic paint pens to add a few extra details.

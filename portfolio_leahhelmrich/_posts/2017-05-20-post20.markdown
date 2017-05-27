@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Plush Pony Toys"
+date:   2017-05-20 00:08:46 +0000
+categories: toy
+permalink: :title
+image1: assets/img/pony-plushes-compressor.jpg
+image1-title: "Plush Pony Toys"
+image2: assets/img/pony-plush-compressor.jpg
+image2-title: "Plush Pony Toy"
+---
+Following a rough pattern, I cut out between 15 and 30 pieces for each toy. Using colorful thread I stitched everything together and stuffed the various pieces. Using paint and paint pens I added details before sealing the plushes with scotch guard.

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Jinx Cosplay Props"
+date:   2017-05-15 00:08:46 +0000
+categories: props
+permalink: :title
+image1: assets/img/jinx-all-compressor.jpg
+image1-title: "Jinx Cosplay Props"
+image2: assets/img/jinx-cosplay-compressor.jpg
+image2-title: "Jinx Cosplay"
+---
+The shark shaped rocket launcher, bunny eared machine gun, and electric pistol were created with cardboard boxes and containers that were shaped and covered with masking tape. Small details were made with cardboard, sheet foam, model magic, wire, and found objects. Everything was painted with acrylics and automotive paint for durability.
+

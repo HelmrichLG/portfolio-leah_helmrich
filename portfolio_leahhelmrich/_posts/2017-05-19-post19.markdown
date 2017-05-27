@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Stage-Worthy Laundry Room Floor"
+date:   2017-05-11 00:08:46 +0000
+categories: other
+permalink: :title
+image1: assets/img/floor-finished-compressor.jpg
+image1-title: "Stage-Worthy Laundry Room Floor"
+image2: assets/img/floor-working-compressor.jpg
+image2-title: "Stage-Worthy Laundry Room Floor"
+---
+To create a more interesting  and durable laundry room floor I used outdoor grade paint to put down a base coat and then blocked out basic stone brick shapes. Using a number of sponge and dry brushing techniques I added depth and color to create a floor reminiscent of a stone wall.
