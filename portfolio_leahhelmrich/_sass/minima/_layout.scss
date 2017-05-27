@@ -231,6 +231,8 @@
   }
 
   .post-img {
+    position: relative;
+    width: 100%;
     filter: brightness(100%);
     max-width: 350px;
     height: auto;
