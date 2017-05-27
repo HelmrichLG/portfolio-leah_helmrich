@@ -186,6 +186,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
+    white-space: nowrap;
     color: #333333;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
