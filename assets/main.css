@@ -117,16 +117,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(100% - (30px * 2));
-  max-width: calc(100% - (30px * 2));
+  max-width: -webkit-calc(1170px - (30px * 2));
+  max-width: calc(1170px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 100%) {
     .wrapper {
-      max-width: -webkit-calc(100% - (30px));
-      max-width: calc(100% - (30px));
+      max-width: -webkit-calc(1170px - (30px));
+      max-width: calc(1170px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -286,10 +286,20 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto; }
 
 .page-heading {
   font-size: 20px; }
+
+.page-img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  min-width: 350px;
+  border-radius: 5%; }
 
 .post-list {
   display: flex;
@@ -297,6 +307,7 @@ pre {
   justify-content: flex-start;
   flex-wrap: wrap;
   height: 10000px;
+  width: 100%;
   background-color: #ececec; }
   .post-list .post {
     margin: 10px;
