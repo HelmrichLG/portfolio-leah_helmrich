@@ -188,7 +188,6 @@
 .page-content {
   padding: $spacing-unit 0;
   max-width: 2*$spacing-unit+1110px;
-  width: 100%;
   margin: 0 auto;
 }
 
@@ -211,7 +210,7 @@
   justify-content: flex-start;
   flex-wrap: wrap;
   height: 10000px;
-  width: 100%;
+  min-width: 370px;
   background-color: darken($background-color, 5%);
 
   .post {
