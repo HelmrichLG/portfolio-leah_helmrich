@@ -195,29 +195,30 @@
 
 .post-list {
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  // align-items: center;
+  justify-content: flex-start;
   flex-wrap: wrap;
+  height: 10000px;
   background-color: darken($background-color, 5%);
 
   .post {
-    flex-basis: 350px;
     margin: 10px;
-
     position: relative;
     display:flex;
     align-items: center;
     justify-content: center;
     padding:0px;
+    width: 350px;
     @include relative-font-size(1.5);
   }
 
   .post-list-title {
+    width: 90%;
     visibility: hidden;
     position: absolute;
     color: $brand-color3;
-    padding: 20px;
+    padding: 5%;
     text-align: center;
   }
 
@@ -233,10 +234,11 @@
 
   .post-img {
     position: relative;
-    width: 100%;
-    filter: brightness(100%);
-    max-width: 350px;
+    width: 350px;
+    min-width: 350px;
     height: auto;
+    max-height: 700px;
+    filter: brightness(100%);
     border-radius: 5%;
   }
 
