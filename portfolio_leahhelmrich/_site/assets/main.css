@@ -293,25 +293,26 @@ pre {
 
 .post-list {
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: flex-start;
   flex-wrap: wrap;
+  height: 10000px;
   background-color: #ececec; }
   .post-list .post {
-    flex-basis: 350px;
     margin: 10px;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0px;
+    width: 350px;
     font-size: 24px; }
   .post-list .post-list-title {
+    width: 90%;
     visibility: hidden;
     position: absolute;
     color: #abb92f;
-    padding: 20px;
+    padding: 5%;
     text-align: center; }
   .post-list .post:hover .post-list-img {
     filter: brightness(40%);
@@ -321,10 +322,11 @@ pre {
     transition: all 1s ease; }
   .post-list .post-img {
     position: relative;
-    width: 100%;
-    filter: brightness(100%);
-    max-width: 350px;
+    width: 350px;
+    min-width: 350px;
     height: auto;
+    max-height: 700px;
+    filter: brightness(100%);
     border-radius: 5%; }
   .post-list .post-meta {
     font-size: 14px;
