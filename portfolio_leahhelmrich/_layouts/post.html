@@ -18,13 +18,13 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     <div class="photo-set">
       {% if page.image1 %}
-        <a class="photo" href="{{ page.image1 }}" data-lightbox="photo-set" data-title="{{page.image1-title}}"><img class="post-img" src="{{ page.image1 }}" alt="{{page.image1-title}}"/></a>
+        <a class="photo" href="{{ page.image1 }}" data-lightbox="photo-set" data-title="{{page.image1-title}}"><img class="post-img" src="{{ page.image1 | replace: ".", "_min." }}" alt="{{page.image1-title}}"/></a>
       {% endif %}
       {% if page.image2 %}
         <a class="photo" href="{{ page.image2 }}" data-lightbox="photo-set" data-title="{{page.image2-title}}"><img class="post-img" src="{{ page.image2 }}" alt="{{page.image2-title}}" /></a>
       {% endif %}
       {% if page.image3 %}
-        <a class="photo" href="{{ page.image2 }}" data-lightbox="photo-set" data-title="{{page.image2-title}}"><img class="post-img" src="{{ page.image2 }}" alt="{{page.image2-title}}" /></a>
+        <a class="photo" href="{{ page.image3 }}" data-lightbox="photo-set" data-title="{{page.image3-title}}"><img class="post-img" src="{{ page.image3 }}" alt="{{page.image3-title}}" /></a>
       {% endif %}
     </div>
     <div class="description">

@@ -14,7 +14,7 @@ custom_js: "post-list"
     {% for post in site.posts reversed %}
       <div class="post">
         {% if post.image1 %}
-          <a class="post-list-img" href="{{ post.url |remove_first: "/" }}.html"><img class="post-img" src="{{ post.image1 }}" alt="{{post.image1-title}}"></a>
+          <a class="post-list-img" href="{{ post.url |remove_first: "/" }}.html"><img class="post-img" src="{{ post.image1 | replace: ".", "_min." }}" alt="{{post.image1-title}}"></a>
           <a class="post-list-title" href="{{ post.url |remove_first: "/" }}.html">{{ post.title | escape }}</a>
         {% else %}
           <a class="post-list-img" href="{{ post.url |remove_first: "/" }}.html"><img class="post-img" src="{{ "assets/img/default.png" }}"> alt="{{"default photo"}}"</a>
