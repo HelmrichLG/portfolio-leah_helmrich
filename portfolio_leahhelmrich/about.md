@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: about
+image1: assets/img/leah-profile.jpg
+image1-title: "Leah Helmrich"
 ---
 
 Leah wrapped her first headpin when she was 12 and she has hardly set her pliers down since! Starting with basic beading and stringing, Leah started a small business selling pieces to friends. Discovering that she simply adored this creative outlet, Leah dived in to all things jewelry, learning beadweaving, wire wrapping, and chainmaille in quick succession.  
