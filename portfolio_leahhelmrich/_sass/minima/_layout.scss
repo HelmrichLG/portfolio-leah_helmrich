@@ -187,10 +187,21 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  max-width: 2*$spacing-unit+1110px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .page-heading {
   @include relative-font-size(1.25);
+}
+
+.page-img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  min-width: 350px;
+  border-radius: 5%;
 }
 
 .post-list {
@@ -200,6 +211,7 @@
   justify-content: flex-start;
   flex-wrap: wrap;
   height: 10000px;
+  width: 100%;
   background-color: darken($background-color, 5%);
 
   .post {

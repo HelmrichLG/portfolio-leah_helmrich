@@ -16,6 +16,17 @@
     {% include footer.html %}
     <script type="text/javascript" src="{{ "assets/main.js" }}"></script>
     <script src="{{ "assets/lightbox2-master/js/lightbox-plus-jquery.min.js" }}"></script>
+    {% if layout.custom_js or page.custom_js %}
+      {% for js_file in layout.custom_js %}
+        <script type="text/javascript" src="assets/{{ js_file }}.js"></script>
+      {% endfor %}
+    {% endif %}
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        {% assign assets_url = assets %}
+        <script type="text/javascript" src="assets/{{ js_file }}.js"></script>
+      {% endfor %}
+    {% endif %}
   </body>
 
 </html>
